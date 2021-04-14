@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{6D46F0FA-56D1-46DA-AD76-582E3E959712}|Default">
+  <MonoDevelop.Ide.ItemProperties.naMap PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="naMap/Controllers/RouteController.cs">
+    <Files>
+      <File FileName="naMap/Controllers/RouteController.cs" Line="51" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="naMap" expanded="True">
+            <Node name="naMap" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="RouteController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
